@@ -1,2 +1,2 @@
 gradio
-google-gen ai
+google-genai
